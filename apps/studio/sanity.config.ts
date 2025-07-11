@@ -6,7 +6,7 @@ import {schemaTypes} from './schemaTypes'
 export default defineConfig({
   name: 'default',
   title: 'Tech Test',
-
+  basePath: '/',
   projectId: '9v4i3rt3',
   dataset: 'production',
 
